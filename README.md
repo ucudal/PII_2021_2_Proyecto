@@ -21,8 +21,7 @@ Los chatbots son especialmente útiles para asistir a las personas en tareas o c
 - asistente/secretario/a, por ejemplo, para agendar reuniones entre personas
 - oficiar de agente de viajes, para encontrar vuelos, estadías, etc.
 - buscar multimedia (GIFs, videos, música, etc.)
-- marcar el tiempo de los ejercicios en clase 😉
-- y mucho más <sup>2</sup>.
+- y mucho más.
 
 Algunas de las aplicaciones más conocidas que abren sus puertas al desarrollo de chatbots (tienen APIs) son: Telegram, Messenger, Whatsapp, Slack, Discord, entre otras.
 
