@@ -31,9 +31,6 @@ Los chatbots son especialmente útiles para asistir a las personas en tareas o c
 Algunas de las aplicaciones más conocidas que abren sus puertas al desarrollo de chatbots (tienen [APIs](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)) son: Telegram, Messenger, Whatsapp, Slack, Discord, entre otras.
 
 ## La propuesta (TBD)
-
-**GONZALO: ¿NO HABRÍA QUE DEFINIR ACÁ QUE ESTAS SON LAS HISTORIAS DE USUARIO? OTRA COSA, ¿HABLAMOS DE "PLATAFORMA"?**
-
 Como administrador, quiero poder invitar empresas a la plataforma, para que de esa forma puedan realizar ofertas de materiales reciclables o residuos.
 
 Como empresa, quiero publicar una oferta de materiales reciclables o residuos, para que de esa forma los emprendedores que lo necesiten puedan reutilizarlos.
