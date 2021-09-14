@@ -25,7 +25,7 @@ Los chatbots son especialmente útiles para asistir a las personas en tareas o c
 
 Algunas de las aplicaciones más conocidas que abren sus puertas al desarrollo de chatbots (tienen APIs) son: Telegram, Messenger, Whatsapp, Slack, Discord, entre otras.
 
-## La propuesta
+## La propuesta (TBD)
 Las organizaciones disponen de materiales reciclables o residuos que ofrecen a los emprendedores, por lo tanto, la aplicación deberá permitir que las organizaciones publiquen información acerca de los materiales.
 
 Lo materiales  clasificados, peso, unidad, dinero, tiempo de publciación, lugar donde se ubican, se envía/se retira, habilitaciones necesarias, palabras clave
@@ -42,6 +42,9 @@ Emprendedor busca por categorioa o por palabra clave o por zona:
 
 -Reporte de todos los materiales entregados por tiempo.
 -Para el emprendedor cuanto recibió de materiales / residuos.
+
+### Persistencia de la información
+Cómo ya te habrás dado cuenta, nuestro chatbot necesitará guardar la información de empresas, emprendedores, materiales, etc. Para esto te brindaremos una interface que te permitirá realizar persistencia de datos (guardar y recuperar) y luego una implemnentación utilizando archivos. Tengan presenten, que a los profes les gusta guardar información en bases de datos, así que si cambiamos la implementación de la interface, el chatbot debería seguir funcionando sin cambios.
 
 ## Roadmap y Entregables
 | Instancia | Fecha | Entregables |
