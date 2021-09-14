@@ -6,9 +6,14 @@
 
 ## Proyecto 2021 - Segundo Semestre - Mapeo de Emprendedores - [Economía Circular](https://es.wikipedia.org/wiki/Econom%C3%ADa_circular).
 
-El trabajo consiste en desarrollar un [chatbot](https://es.wikipedia.org/wiki/Bot_conversacional) que permitirá conectar organizaciones (o empresas) con emprendedores.
+La pregunta orientadora de este proyecto es:
+
+> :thinking: ¿Cómo podemos nosotros, estudiantes de Programación II de la Universidad Católica del Uruguay, ayudar a poner en contacto a las empresas que generan residuos y materiales reciclables, con emprendedores que puedan utilizar esos residuos o materiales en sus propios productos, y de esa forma reducir los desechos que se general y disminuir el impacto en el ambiente?
+
+El trabajo consiste en desarrollar un [chatbot](https://es.wikipedia.org/wiki/Bot_conversacional) que permitirá conectar organizaciones o empresas con emprendedores.
 
 ## Introducción
+
 Un chatbot (o bot conversacional) es «un programa que simula mantener una conversación con una persona al proveer respuestas automáticas a entradas hechas por el usuario.»<sup>1</sup>
 
 Existen gran variedad de chatbots actualmente y varios _sabores_. Hay chatbots que simplemente responden a comandos pre-establecidos, y otros que integran algoritmos de [inteligencia artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial) para procesar los mensajes de los usuarios e [interpretar lo que se está diciendo](https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales).
