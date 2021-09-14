@@ -26,8 +26,9 @@ Los chatbots son especialmente útiles para asistir a las personas en tareas o c
 Algunas de las aplicaciones más conocidas que abren sus puertas al desarrollo de chatbots (tienen APIs) son: Telegram, Messenger, Whatsapp, Slack, Discord, entre otras.
 
 ## La propuesta (TBD)
+Como administrador quiero poder invitar empresas  (dar de alta) para que pueda realizar ofertas de materiales.
 
-Como empresa, quiero publicar materiales reciclables o residuos para ofrecer a los emprendedores.
+Como empresa, quiero publicar una oferta de materiales reciclables o residuos para ofrecer a los emprendedores.
 
 Como empresa, quiero clasificar los materiales, indicar su cantidad y unidad, el valor (en $ o U$S) de los mismos y el lugar donde se ubican para permitir a los emprendedores tener información de una oferta de materiales.
 
@@ -35,10 +36,11 @@ Como empresa, quiero indicar las habilitaciones que requiere un emprendedor para
 
 Como empresa, quiero indicar un conjunto de palabras claves asociadas a la publicación de los materiales para facilitar su búsqueda.
 
+Como emprendedor quiero poder registrarme en la platarforma indicando nombre, ubicación, rubro, habilitaciones y especializaciones de forma de poder visualizar ofertas de materiales.
 
-Las empresas: rubro, lugar 
+Como emprendedor quiero poder conectarme con una empresa para adquirir materiales.
 
-Los emprendedores: rubro, habilitaciones, especializaciones
+
 
 Generación constante en determinada frecuencia
 Generación puntual de un material
