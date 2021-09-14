@@ -26,25 +26,25 @@ Los chatbots son especialmente útiles para asistir a las personas en tareas o c
 Algunas de las aplicaciones más conocidas que abren sus puertas al desarrollo de chatbots (tienen APIs) son: Telegram, Messenger, Whatsapp, Slack, Discord, entre otras.
 
 ## La propuesta (TBD)
-Como administrador quiero poder invitar empresas  (dar de alta) para que pueda realizar ofertas de materiales.
+- Como administrador quiero poder invitar empresas  (dar de alta) para que pueda realizar ofertas de materiales.
 
-Como empresa, quiero publicar una oferta de materiales reciclables o residuos para ofrecer a los emprendedores.
+- Como empresa, quiero publicar una oferta de materiales reciclables o residuos para ofrecer a los emprendedores.
 
-Como empresa, quiero clasificar los materiales, indicar su cantidad y unidad, el valor (en $ o U$S) de los mismos y el lugar donde se ubican para permitir a los emprendedores tener información de una oferta de materiales.
+- Como empresa, quiero clasificar los materiales, indicar su cantidad y unidad, el valor (en $ o U$S) de los mismos y el lugar donde se ubican para permitir a los emprendedores tener información de una oferta de materiales.
 
-Como empresa, quiero indicar las habilitaciones que requiere un emprendedor para poder recibir o retirar los materiales.
+- Como empresa, quiero indicar las habilitaciones que requiere un emprendedor para poder recibir o retirar los materiales.
 
-Como empresa, quiero indicar un conjunto de palabras claves asociadas a la publicación de los materiales para facilitar su búsqueda.
+- Como empresa, quiero indicar un conjunto de palabras claves asociadas a la publicación de los materiales para facilitar su búsqueda.
 
-Como empresa quiero obtener un reporte de todos los materiales entregados en los últimos 12 meses.
+- Como empresa quiero obtener un reporte de todos los materiales entregados en los últimos 12 meses.
 
-Como emprendedor quiereo obtener un reporte de los materiales recibidos en los últimos 12 meses.
+- Como emprendedor quiereo obtener un reporte de los materiales recibidos en los últimos 12 meses.
 
-Como emprendedor quiero poder registrarme en la platarforma indicando nombre, ubicación, rubro, habilitaciones y especializaciones de forma de poder visualizar ofertas de materiales.
+- Como emprendedor quiero poder registrarme en la platarforma indicando nombre, ubicación, rubro, habilitaciones y especializaciones de forma de poder visualizar ofertas de materiales.
 
-Como emprendedor quiero poder conectarme con una empresa para adquirir materiales.
+- Como emprendedor quiero poder conectarme con una empresa para adquirir materiales.
 
-Como emprendedor quiero buscar por categorioa, por palabra clave o por zona para visualizar ofertas de materiales.
+- Como emprendedor quiero buscar por categorioa, por palabra clave o por zona para visualizar ofertas de materiales.
 
 ### Persistencia de la información
 Cómo ya te habrás dado cuenta, nuestro chatbot necesitará guardar la información de empresas, emprendedores, materiales, etc. Para esto te brindaremos una interface que te permitirá realizar persistencia de datos (guardar y recuperar) y luego una implemnentación utilizando archivos. Tengan presenten, que a los profes les gusta guardar información en bases de datos, así que si cambiamos la implementación de la interface, el chatbot debería seguir funcionando sin cambios.
