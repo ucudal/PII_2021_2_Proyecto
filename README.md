@@ -36,20 +36,15 @@ Como empresa, quiero indicar las habilitaciones que requiere un emprendedor para
 
 Como empresa, quiero indicar un conjunto de palabras claves asociadas a la publicación de los materiales para facilitar su búsqueda.
 
+Como empresa quiero obtener un reporte de todos los materiales entregados en los últimos 12 meses.
+
+Como emprendedor quiereo obtener un reporte de los materiales recibidos en los últimos 12 meses.
+
 Como emprendedor quiero poder registrarme en la platarforma indicando nombre, ubicación, rubro, habilitaciones y especializaciones de forma de poder visualizar ofertas de materiales.
 
 Como emprendedor quiero poder conectarme con una empresa para adquirir materiales.
 
-
-
-Generación constante en determinada frecuencia
-Generación puntual de un material
-
-Emprendedor busca por categorioa o por palabra clave o por zona:
-
-
--Reporte de todos los materiales entregados por tiempo.
--Para el emprendedor cuanto recibió de materiales / residuos.
+Como emprendedor quiero buscar por categorioa, por palabra clave o por zona para visualizar ofertas de materiales.
 
 ### Persistencia de la información
 Cómo ya te habrás dado cuenta, nuestro chatbot necesitará guardar la información de empresas, emprendedores, materiales, etc. Para esto te brindaremos una interface que te permitirá realizar persistencia de datos (guardar y recuperar) y luego una implemnentación utilizando archivos. Tengan presenten, que a los profes les gusta guardar información en bases de datos, así que si cambiamos la implementación de la interface, el chatbot debería seguir funcionando sin cambios.
