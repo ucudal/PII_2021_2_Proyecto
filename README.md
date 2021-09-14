@@ -26,9 +26,15 @@ Los chatbots son especialmente útiles para asistir a las personas en tareas o c
 Algunas de las aplicaciones más conocidas que abren sus puertas al desarrollo de chatbots (tienen APIs) son: Telegram, Messenger, Whatsapp, Slack, Discord, entre otras.
 
 ## La propuesta (TBD)
-Las organizaciones disponen de materiales reciclables o residuos que ofrecen a los emprendedores, por lo tanto, la aplicación deberá permitir que las organizaciones publiquen información acerca de los materiales.
 
-Lo materiales  clasificados, peso, unidad, dinero, tiempo de publciación, lugar donde se ubican, se envía/se retira, habilitaciones necesarias, palabras clave
+Como empresa, quiero publicar materiales reciclables o residuos para ofrecer a los emprendedores.
+
+Como empresa, quiero clasificar los materiales, indicar su cantidad y unidad, el valor (en $ o U$S) de los mismos y el lugar donde se ubican para permitir a los emprendedores tener información de una oferta de materiales.
+
+Como empresa, quiero indicar las habilitaciones que requiere un emprendedor para poder recibir o retirar los materiales.
+
+Como empresa, quiero indicar un conjunto de palabras claves asociadas a la publicación de los materiales para facilitar su búsqueda.
+
 
 Las empresas: rubro, lugar 
 
@@ -54,6 +60,6 @@ Cómo ya te habrás dado cuenta, nuestro chatbot necesitará guardar la informac
 | Segunda Entrega | 3 de Noviembre | Entrega de [User Stories](https://es.wikipedia.org/wiki/Historias_de_usuario) implementadas.
 | Entrega Final | 1 de Diciembre<sup>2</sup>|
 
-<sup>1</sup> Cada equipo designarán qué integrante del equipo desarrollará cada clase (la distribución debe contemplar número de clases y responsabilidades).
+<sup>1</sup> Cada equipo designarán qué integrante del equipo desarrollará cada clase (la distribución debe contemplar número de clases y responsabilidades). Se evaluará que cada integrante trabaje en una rama independiente y que se integren los cambios mediante pull requests.
 
 <sup>2</sup> _Las entregas serán hasta las 23:59 del día indicado._
