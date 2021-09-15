@@ -8,7 +8,7 @@
 
 La pregunta orientadora de este proyecto es:
 
-> :thinking: ¿Cómo podemos nosotros, estudiantes de Programación II de la Universidad Católica del Uruguay, ayudar a poner en contacto a las empresas que generan residuos y materiales reciclables, con emprendedores que puedan utilizar esos residuos o materiales en sus propios productos, y de esa forma reducir los desechos que se general y disminuir el impacto en el ambiente?
+> :thinking: ¿Cómo podemos nosotros, estudiantes de Programación II de la Universidad Católica del Uruguay, ayudar a poner en contacto a las empresas que generan residuos y materiales reciclables, con emprendedores que puedan utilizar esos residuos o materiales en sus propios productos, y de esa forma reducir los desechos que se generan y disminuir el impacto en el ambiente?
 
 El trabajo consiste en desarrollar un [chatbot](https://es.wikipedia.org/wiki/Bot_conversacional) que permitirá conectar organizaciones o empresas con emprendedores.
 
@@ -63,7 +63,7 @@ Cómo ya te habrás dado cuenta, nuestro chatbot necesitará guardar la informac
 ## Roadmap y Entregables
 | Instancia | Fecha | Entregables |
 | --- | --- | --- |
-| Kick-off | 6 de Setiembre |
+| Kick-off | 15 de Setiembre |
 | Primer Entrega | 29 de Setiembre | Entrega de tarjetas CRC/Diagrama de Clases.<sup>1</sup>
 | Segunda Entrega | 3 de Noviembre | Entrega de [User Stories](https://es.wikipedia.org/wiki/Historias_de_usuario) implementadas. Las historias de usuario deberán ser implementadas mediante casos de prueba.
 | Entrega Final | 29 de Noviembre<sup>2</sup>|
