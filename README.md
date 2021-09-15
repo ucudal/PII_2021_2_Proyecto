@@ -66,7 +66,7 @@ Cómo ya te habrás dado cuenta, nuestro chatbot necesitará guardar la informac
 | Kick-off | 6 de Setiembre |
 | Primer Entrega | 29 de Setiembre | Entrega de tarjetas CRC/Diagrama de Clases.<sup>1</sup>
 | Segunda Entrega | 3 de Noviembre | Entrega de [User Stories](https://es.wikipedia.org/wiki/Historias_de_usuario) implementadas. Las historias de usuario deberán ser implementadas mediante casos de prueba.
-| Entrega Final | 1 de Diciembre<sup>2</sup>|
+| Entrega Final | 29 de Noviembre<sup>2</sup>|
 
 <sup>1</sup> Cada equipo designará qué integrante del equipo desarrollará cada clase. La distribución debe contemplar número de clases y responsabilidades. Se evaluará que cada integrante trabaje en una rama independiente y que se integren los cambios mediante pull requests.
 
