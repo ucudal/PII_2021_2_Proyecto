@@ -9,7 +9,7 @@ En esta segunda instancia nos enfocaremos en la lógica interna del bot —en el
 
 El siguiente diagrama ilustra lo que denominamos _core_, y los elementos que no son parte de él.
 
-![Core](./Assets/Core.png)
+![Core](../Assets/Core.png)
 
 Los siguientes elementos **_no_** son parte del _core_:
 
