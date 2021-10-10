@@ -39,11 +39,11 @@ El objetivo de esta entrega será hacer funcionar el _core_ del bot y probar que
 
 ## Fecha de entrega
 
-Véase [Tabla de Entregas](./README.md#entregas). 
+Véase [Tabla de Entregas](../README.md#entregas). 
 
 ## Medio de entrega
 
-Se entregará en una [tarea de WebAsignatura](https://webasignatura.ucu.edu.uy/mod/assign/view.php?id=244381) un link al repositorio del equipo conteniendo todos los artefactos entregables. Si no se entrega link a un commit específico de la rama _master_, el equipo docente evaluará el último commit en _master_ previo a la fecha de entrega.
+Se entregará en una [tarea de WebAsignatura](https://webasignatura.ucu.edu.uy/course/view.php?id=288&section=1) un link al repositorio del equipo conteniendo todos los artefactos entregables. Si no se entrega link a un commit específico de la rama _master_, el equipo docente evaluará el último commit en _master_ previo a la fecha de entrega.
 
 Un integrante por equipo deberá completar la entrega.
 
