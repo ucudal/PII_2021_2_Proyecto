@@ -5,7 +5,7 @@
 
 <br>
 
-En esta segunda instancia nos enfocaremos en la lógica interna del bot —en el _core_. — Para esto dejaremos por un momento de lado las integraciones con las plataformas de chat.
+En esta segunda instancia nos enfocaremos en la lógica interna del bot —en el _core_—. Para esto dejaremos por un momento de lado las integraciones con las plataformas de chat.
 
 El siguiente diagrama ilustra lo que denominamos _core_, y los elementos que no son parte de él.
 
@@ -15,11 +15,11 @@ Los siguientes elementos **_no_** son parte del _core_:
 
 - **_Message Gateway_**: componentes relacionados a manejar la entrada y salida de mensajes con los usuarios
 
-- **_Importers_**: componentes relacionados a manejar la importación de datos (desde archivos por ejemplo)
+- **_Importers_**: componentes relacionados a manejar la importación de datos desde archivos por ejemplo
 
-- **_External Services_**: componenetes que representan servicios externos no conversacionales como APIs de Google, etc.
+- **_External Services_**: componentes que representan servicios externos no conversacionales como APIs de Google, etc.
 
-El objetivo de esta entrega será hacer funcionar el _core_ del bot y probar que cumple con la especificación (casos de test).
+El objetivo de esta entrega será hacer funcionar el _core_ del bot y probar que cumple con la especificación mediante casos de prueba.
 
 ## Entregables
 
@@ -27,40 +27,45 @@ El objetivo de esta entrega será hacer funcionar el _core_ del bot y probar que
 
     - código de la solución (`src/Library/`)
 
-    - casos de test (en uno o mas proyectos de test dentro del directorio `src/Test/`)
+    - casos de pruebas (en uno o mas proyectos de test en carpetas dentro de `test/`)
 
-    - documentación (generada con [Doxygen](https://www.doxygen.nl/index.html))
+    - documentación (generada con [Doxygen](https://www.doxygen.nl/index.html)) en el directorio `docs/`
 
-**_Aclaración_**: No es necesario entregar un archivo `Program.cs` con código funcional. El funcionamiento del bot debe quedar evidenciado mediante el proyecto de test. 
+**_Aclaración_**: No es necesario entregar un archivo `Program.cs` con código funcional. El funcionamiento del bot debe quedar evidenciado mediante el proyecto de prueba.
 
-**_Recuerda_**: Haremos especial incapié en las justificaciones de principios y patrones utilizados.
+:warning: **_Importante_**: Deben existir casos de prueba para todas las [historias de usuario](../README.md#La%20propuesta).
+
+:warning: **_Importante_**: Cada equipo designará qué integrante del equipo desarrollará cada clase. La distribución debe contemplar número de clases y responsabilidades. Se evaluará que cada integrante trabaje en una rama independiente y que se integren los cambios mediante pull requests.
+
+**_Recuerda_**: Haremos especial hincapié en las justificaciones de principios y patrones utilizados, que deberán incluir en comentarios XML en el código.
 
 **_Recuerda_**: Existe un catálogo de patrones de diseño que es parte de la bibliografía del curso. Si no puedes acceder al libro, existen recursos online como [refactoring.guru/design-patterns](https://refactoring.guru/design-patterns). Es importante que conozcas los patrones del catálogo y los utilices en tu solución.
 
+:warning: **_Importante_**: Existe una plantilla de proyecto que tiene configuradas las herramientas de _build_, _test_, _docs_, etc. disponible en [GitHub](https://github.com/ucudal/PII_ProjectTemplate).
+
 ## Fecha de entrega
 
-Véase [Tabla de Entregas](../README.md#entregas). 
+Véase [Tabla de Entregas](../README.md#entregas).
 
 ## Medio de entrega
 
-Se entregará en una [tarea de WebAsignatura](https://webasignatura.ucu.edu.uy/course/view.php?id=288&section=1) un link al repositorio del equipo conteniendo todos los artefactos entregables. Si no se entrega link a un commit específico de la rama _master_, el equipo docente evaluará el último commit en _master_ previo a la fecha de entrega.
+Se entregará en una [tarea de WebAsignatura](https://webasignatura.ucu.edu.uy/course/view.php?id=288&section=1) un link al repositorio del equipo conteniendo todos los artefactos entregables. Si no se entrega link a un commit específico de la rama _master_ o _main_, el equipo docente evaluará el último commit en _master_ o _main_ previo a la fecha de entrega.
 
 Un integrante por equipo deberá completar la entrega.
 
 **No se admitirán entregas fuera de fecha.**
 
-**Sólo se admitirán entregas por WebAsignatura en la tarea provista con link a GitHub y en la rama master<sup>1</sup>.**
+**Sólo se admitirán entregas por WebAsignatura en la tarea provista con link a GitHub y en la rama master o main<sup>1</sup>.**
 
 Todos los entregables que sean de documentación (diagramas, tarjetas, documentos, etc.) deberán entregarse dentro del directorio `docs/`.
 
-Los proyectos de código fuente deberán crearse dentro del directorio `src` (como es habitual).
+Los proyectos de código fuente deberán crearse dentro del directorio `src/` (como es habitual).
 
 Deberá existir ademas un archivo README.md en la raiz del repositorio para incluír las notas del equipo. Véase [Notas](#notas).
 
-
 ## Notas
 
-Alentamos al equipo a que utilice el archivo de README en su repositorio para incluír notas de reflexión durante el desarrollo del proyecto. Estas notas pueden incluír:
+Alentamos al equipo a que utilice el archivo de README.md en su repositorio para incluir notas de reflexión durante el desarrollo del proyecto. Estas notas pueden incluír:
 
 - Qué desafíos de la entrega fueron los más difíciles
 
@@ -69,7 +74,6 @@ Alentamos al equipo a que utilice el archivo de README en su repositorio para in
 - Qué recursos (páginas web, libros, foros, etc) encontraron que les fueron valiosos para sortear los desafíos que encontraron
 
 - Y cualquier otro tipo de reflexión, material o comentarios sobre el trabajo en el proyecto.
-
 
 ****
 

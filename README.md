@@ -45,7 +45,7 @@ Aquí veremos una explicación general e informal de las funciones del software 
 
 - Como empresa, quiero indicar un conjunto de palabras claves asociadas a la publicación de los materiales, para que de esa forma sea más fácil de encontrarlos en las búsquedas que hacen los emprendedores.
 
-- Como emprendedor, quiero registrarme en la platarforma indicando nombre, ubicación, rubro, habilitaciones y especializaciones, para que de esa forma pueda ver las ofertas de materiales o residuos. 
+- Como emprendedor, quiero registrarme en la platarforma indicando nombre, ubicación, rubro, habilitaciones y especializaciones, para que de esa forma pueda ver las ofertas de materiales o residuos.
 
 - Como emprendedor, quiero poder buscar materiales ofrecidos por empresas mediante palabras clave, categorías, o por zona, para de esa forma obtener insumos para mi emprendimiento.
 
@@ -70,4 +70,4 @@ Cómo ya te habrás dado cuenta, nuestro chatbot necesitará guardar la informac
 
 <sup>1</sup> Cada equipo designará qué integrante del equipo desarrollará cada clase. La distribución debe contemplar número de clases y responsabilidades. Se evaluará que cada integrante trabaje en una rama independiente y que se integren los cambios mediante pull requests.
 
-<sup>2</sup> _Las entregas serán hasta las 23:59 del día indicado.
+<sup>2</sup> Las entregas serán hasta las 23:59 del día indicado.
