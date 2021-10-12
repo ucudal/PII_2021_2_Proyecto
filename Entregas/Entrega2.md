@@ -33,7 +33,7 @@ El objetivo de esta entrega será hacer funcionar el _core_ del bot y probar que
 
 **_Aclaración_**: No es necesario entregar un archivo `Program.cs` con código funcional. El funcionamiento del bot debe quedar evidenciado mediante el proyecto de prueba.
 
-:warning: **_Importante_**: Deben existir casos de prueba para todas las [historias de usuario](../README.md#La%20propuesta).
+:warning: **_Importante_**: Deben existir casos de prueba para todas las [historias de usuario](../README.md#La-propuesta).
 
 :warning: **_Importante_**: Cada equipo designará qué integrante del equipo desarrollará cada clase. La distribución debe contemplar número de clases y responsabilidades. Se evaluará que cada integrante trabaje en una rama independiente y que se integren los cambios mediante pull requests.
 
