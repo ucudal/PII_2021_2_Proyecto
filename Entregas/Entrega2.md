@@ -45,7 +45,7 @@ El objetivo de esta entrega será hacer funcionar el _core_ del bot y probar que
 
 ## Fecha de entrega
 
-Véase [Tabla de Entregas](../README.md#entregas).
+Véase [Tabla de Entregas](../README.md#roadmap-y-entregables).
 
 ## Medio de entrega
 
