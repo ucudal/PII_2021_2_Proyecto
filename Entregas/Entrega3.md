@@ -46,7 +46,37 @@ Todos los entregables que sean de documentación (diagramas, tarjetas, documento
 
 Los proyectos de código fuente deberán crearse dentro del directorio `src` (como es habitual).
 
-Deberá existir ademas un archivo README.md en la raiz del repositorio para incluír las notas del equipo. Véase [Notas](#notas).
+Deberá existir ademas un archivo README.md en la raiz del repositorio para incluír **la descripción del proyecto** y **las notas del equipo**. Véase [Notas](#notas).
+
+## Criterio de calificación
+
+Los profesores vamos a mirar el cumplimiento de los siguientes criterios, alineados con la rúbrica del curso:
+
+- Aplica patrones GRASP
+
+- Aplica principios SOLID
+
+- Uso de C#
+
+- Consistencia entre modelo UML/C#
+
+- Aplica catálogo de patrones
+
+- Excepciones y diseño por contrato
+
+- Facilidad de comprensión/mantenimiento
+
+- Convenciones de código
+
+- Reutilización
+
+- Uso del repositorio
+
+- Unit tests de clases
+
+- Unit tests de escenarios
+
+- Funcionamiento del bot
 
 
 ## Notas
